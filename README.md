@@ -49,26 +49,26 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aansa-123&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aansa-123&theme=midnight-purple&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aansa-123&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Summary
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Aansa-123/Aansa-123/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=8A2BE2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Aansa-123&label=Profile+Views&color=8A2BE2&style=flat" />
 </p>
 
 ---
